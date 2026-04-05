@@ -192,7 +192,7 @@ const Index = () => {
             </div>
             <span className="text-sm font-body font-medium text-foreground">Catalog</span>
           </div>
-          <p className="text-xs text-muted-foreground font-body">Dijital Menü Şablonu</p>
+          <p className="text-xs text-muted-foreground font-body"> ROSEWFWARE Dijital Menü Şablonu</p>
         </div>
       </footer>
     </div>
